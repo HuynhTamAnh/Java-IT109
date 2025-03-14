@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ss2/Excercise/Excercise.iml" filepath="$PROJECT_DIR$/ss2/Excercise/Excercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss2/bai1/bai1.iml" filepath="$PROJECT_DIR$/ss2/bai1/bai1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss3/bai1/bai10.iml" filepath="$PROJECT_DIR$/ss3/bai1/bai10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss3/bai4/bai11.iml" filepath="$PROJECT_DIR$/ss3/bai4/bai11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss3/bai3/bai12.iml" filepath="$PROJECT_DIR$/ss3/bai3/bai12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss1/bai6/bai13.iml" filepath="$PROJECT_DIR$/ss1/bai6/bai13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss1/bai3/bai14.iml" filepath="$PROJECT_DIR$/ss1/bai3/bai14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss1/bai4/bai15.iml" filepath="$PROJECT_DIR$/ss1/bai4/bai15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss1/bai1/bai16.iml" filepath="$PROJECT_DIR$/ss1/bai1/bai16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss1/bai2/bai17.iml" filepath="$PROJECT_DIR$/ss1/bai2/bai17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss2/bai2/bai2.iml" filepath="$PROJECT_DIR$/ss2/bai2/bai2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss2/bai3/bai3.iml" filepath="$PROJECT_DIR$/ss2/bai3/bai3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss2/bai4/bai4.iml" filepath="$PROJECT_DIR$/ss2/bai4/bai4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss2/bai5/bai5.iml" filepath="$PROJECT_DIR$/ss2/bai5/bai5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss2/bai6/bai6.iml" filepath="$PROJECT_DIR$/ss2/bai6/bai6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss3/bai6/bai7.iml" filepath="$PROJECT_DIR$/ss3/bai6/bai7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss3/bai5/bai8.iml" filepath="$PROJECT_DIR$/ss3/bai5/bai8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss3/bai2/bai9.iml" filepath="$PROJECT_DIR$/ss3/bai2/bai9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+    </modules>
+  </component>
+</project>

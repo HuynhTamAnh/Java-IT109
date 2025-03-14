@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bai1/bai1.iml" filepath="$PROJECT_DIR$/bai1/bai1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai2/bai2.iml" filepath="$PROJECT_DIR$/bai2/bai2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai3/bai3.iml" filepath="$PROJECT_DIR$/bai3/bai3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai4/bai4.iml" filepath="$PROJECT_DIR$/bai4/bai4.iml" />
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/bai6/bai6.iml" filepath="$PROJECT_DIR$/bai6/bai6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ss1.iml" filepath="$PROJECT_DIR$/.idea/ss1.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/bai5/bai5.iml" filepath="$PROJECT_DIR$/bai5/bai5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai6/bai6.iml" filepath="$PROJECT_DIR$/bai6/bai6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ss3.iml" filepath="$PROJECT_DIR$/.idea/ss3.iml" />
+>>>>>>> 5830f00f22a74faa1f8a6324a3dc07ae54803b31
+    </modules>
+  </component>
+</project>
